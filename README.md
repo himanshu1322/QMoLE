@@ -1,6 +1,6 @@
 # Q-MoLE: Extreme Edge Compression for LLMs via 1.58-bit Mixture of Experts
 
-[![Research-Grade](https://img.shields.io/badge/Research-M.Tech_AI-blueviolet)](https://github.com/himanshu1322/QMoLE)
+[![Research-Grade](https://img.shields.io/badge/Research-M.E_AI-blueviolet)](https://github.com/himanshu1322/QMoLE)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Model: Llama-3-8B](https://img.shields.io/badge/Backbone-Llama--3--8B-orange)](https://huggingface.co/meta-llama/Meta-Llama-3-8B)
 unsloth/llama-3-8b-Instruct-bnb-4bit
