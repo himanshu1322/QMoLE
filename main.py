@@ -10,7 +10,7 @@ def main():
     print(f"✅ Device detected: {device}")
 
     # 2. Load Backbone (TinyLlama)
-    model_id = "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
+    model_id = "unsloth/llama-3-8b-Instruct-bnb-4bit"
     tokenizer = AutoTokenizer.from_pretrained(model_id)
     backbone = AutoModelForCausalLM.from_pretrained(
         model_id, 
