@@ -1,0 +1,19 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments (The most important one!)
+venv/
+env/
+.env
+.venv
+
+# Research Logs & temporary data
+emissions.csv
+*.log
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
